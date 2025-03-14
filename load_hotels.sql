@@ -1,7 +1,8 @@
-﻿ 
+﻿TRUNCATE TABLE dbo.hotels
+ 
 -- import the file
 BULK INSERT dbo.hotels
-FROM 'C:\tmp\hotels.csv'
+FROM 'C:\Users\user\source\repos\agoda\data\hotels.csv'
 WITH
 (
         FORMAT='CSV',
