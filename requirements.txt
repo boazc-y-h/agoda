@@ -2,3 +2,4 @@ jupyterlab
 ipython-sql
 sqlalchemy 
 pandas
+pyodbc
