@@ -1,0 +1,4 @@
+jupyterlab 
+ipython-sql
+sqlalchemy 
+pandas
