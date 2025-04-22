@@ -3,3 +3,5 @@ ipython-sql
 sqlalchemy 
 pandas
 pyodbc
+python-dotenv 
+psycopg2
